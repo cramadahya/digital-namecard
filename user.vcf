@@ -8,7 +8,7 @@ TITLE:Freelance writer and editor
 EMAIL;type=INTERNET;type=WORK;type=pref:chane.rd@executiveprocessediting.com
 TEL;type=WORK;type=VOICE:+27 79 671 0909
 item1.ADR;type=WORK;type=pref:;;4 9th Street\Killarney\2193;;;Johannesburg
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item1.X-ABADR:com
+item2.URL;type=pref:executiveprocessediting.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
