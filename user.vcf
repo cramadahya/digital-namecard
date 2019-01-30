@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+FN: Chane J  Rama Dahya 
+ORG:Executive Process Editing;
+TITLE:Freelance writer and editor
+EMAIL;type=INTERNET;type=WORK;type=pref:chane.rd@executiveprocessediting.com
+TEL;type=WORK;type=VOICE:+27 79 671 0909
+item1.ADR;type=WORK;type=pref:;;4 9th Street\Killarney\2193;;;Johannesburg
 item1.X-ABADR:sg
 item2.URL;type=pref:tech.gov.sg
 item2.X-ABLabel:_$!<HomePage>!$_
